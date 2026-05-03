@@ -72,26 +72,32 @@ This project includes visualizations such as:
 - Number of platforms used vs. daily usage
 - Correlation matrix
 
-How to Run
-Open the notebook in Google Colab or Jupyter Notebook.
-Upload the dataset file.
-Run all cells in order.
-The notebook will generate:
-Cleaned dataset
-Summary statistics
-Visualizations
-Correlation analysis
-Ethical Considerations
+How to Run:
+
+-Open the notebook in Google Colab or Jupyter Notebook.
+-Upload the dataset file.
+-Run all cells in order.
+-The notebook will generate:
+-Cleaned dataset
+-Summary statistics
+-Visualizations
+-Correlation analysis
+
+Ethical Considerations:
 
 The dataset used does not include personally identifiable information. The findings are interpreted as associations, not causal relationships. Mental health is complex and may be influenced by many factors beyond social media usage.
 
-Limitations
+Limitations:
+
 The analysis is observational, so causation cannot be concluded.
 The dataset may include self-reported or simulated values.
 External factors such as lifestyle, sleep quality, and socioeconomic status were not included.
 The analysis used a 10,000-record sample from the full dataset.
 
-Author
+Author:
+
 Serajum Munira
+
 Master’s Student in Information Quality
+
 University of Arkansas at Little Rock

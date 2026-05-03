@@ -1,0 +1,13 @@
+Column Name,Data Type,Missing Values,Unique Values
+age,int64,0,15
+gender,object,0,3
+country,object,0,7
+daily_usage_hours,float64,0,9786
+primary_platform,object,0,5
+num_platforms_used,int64,0,5
+purpose,object,0,5
+avg_session_minutes,float64,0,9776
+night_usage,int64,0,2
+mental_health_score,float64,0,9711
+addiction_level,object,0,3
+screen_time_before_sleep,float64,0,9786
